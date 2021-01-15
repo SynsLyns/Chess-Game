@@ -1,0 +1,9 @@
+wR wN wB wQ wK wB wN wR 
+wP x x x x wP x wP 
+x x wP x wP x x x 
+x wP x wP bP x wP x 
+x x bP x x x x x 
+bP x bN x x x x x 
+x bP x bP x bP bP bP 
+bR x bB bQ bK bB bN bR 
+White 0 0 4 True
